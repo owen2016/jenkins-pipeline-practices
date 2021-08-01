@@ -1,2 +1,2 @@
-# Jenkins 插件模板片段
+# Jenkins Pipeline Practices
 
